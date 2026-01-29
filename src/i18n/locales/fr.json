@@ -1,0 +1,100 @@
+{
+    "common": {
+        "appName": "Moniteur de l'Eau du Maroc",
+        "lastUpdate": "Dernière mise à jour",
+        "downloadReport": "Télécharger le rapport",
+        "viewGuidelines": "Voir les directives"
+    },
+    "hero": {
+        "title": "Moniteur de l'Eau du Maroc",
+        "subtitle": "Suivi de la récupération hydraulique du Royaume",
+        "cta": "Explorer le tableau de bord",
+        "slide1": "Montagnes de l'Atlas - Source de vie",
+        "slide2": "Infrastructure moderne des barrages",
+        "slide3": "Campagne marocaine"
+    },
+    "stats": {
+        "fillRate": "Taux de remplissage national",
+        "totalReserve": "Réserve totale",
+        "rainfall": "Précipitations (Sep-Jan)",
+        "snowCover": "Couverture neigeuse",
+        "vsLastYear": "vs {{value}} en Jan 2025",
+        "capacity": "Capacité: {{value}} Milliards m³",
+        "nationalAverage": "Moyenne nationale",
+        "peakRecorded": "Pic enregistré Jan 2026",
+        "feedingBasins": "Alimentant Oum Er Rbia & Tensift"
+    },
+    "overview": {
+        "title": "Aperçu de la situation hydraulique",
+        "description": "Analyse de la récupération historique suite à la saison des pluies de Sept 2025 - Jan 2026. Données agrégées du Ministère de l'Équipement et de l'Eau."
+    },
+    "charts": {
+        "historyTitle": "Évolution sur 5 ans (Statut Janvier)",
+        "basinTitle": "Taux de remplissage par bassin hydraulique",
+        "crisis": "Crise",
+        "recovery": "Récupération",
+        "analysis": "Après avoir atteint un niveau critique de 23,2% en 2024, les réserves ont montré une reprise en V. Le niveau de 2026 (55,2%) dépasse la moyenne 2021-2022, mettant officiellement fin au cycle de \"sécheresse de 7 ans\" selon le Ministère."
+    },
+    "regional": {
+        "title": "Situation régionale",
+        "north": "Nord (Saturation)",
+        "northDesc": "Loukkos & Bouregreg > 90%. Les barrages comme Oued El Makhazine sont pleins. Sécurisé pour 3 ans.",
+        "center": "Centre (Forte reprise)",
+        "centerDesc": "Sebou à 68,7%. Al Wahda (le plus grand barrage) détient 2,6B m³. Agriculture sécurisée.",
+        "south": "Sud (En amélioration)",
+        "southDesc": "Oum Er Rbia est passé de 4,7% à 30,5%. Le barrage Al Massira a repris (13%). Crise évitée mais prudence nécessaire."
+    },
+    "infrastructure": {
+        "title": "Infrastructure",
+        "sebouBouregreg": "Autoroute Sebou-Bouregreg",
+        "operational": "Opérationnel",
+        "transferred": "400M m³ transférés vers Rabat/Casa.",
+        "casaDesal": "Dessalement Casablanca",
+        "phase1": "Phase 1 (2027)",
+        "casaDesc": "2ème plus grand au monde. Construction en cours.",
+        "agadirDesal": "Extension Dessalement Agadir",
+        "target": "Objectif: 400k m³/jour"
+    },
+    "dams": {
+        "title": "État détaillé des barrages majeurs (Top 10 par capacité)",
+        "sortedBy": "*Trié par capacité",
+        "name": "Nom du barrage",
+        "basin": "Bassin",
+        "capacity": "Capacité (Mm³)",
+        "fillRate": "Taux % (2026)",
+        "vsLastYear": "vs 2025",
+        "status": "Statut",
+        "showing": "Affichage des 8 premiers barrages par importance stratégique.",
+        "dataSource": "Source: maadialna.ma (Simulé pour Jan 2026)"
+    },
+    "status": {
+        "good": "Bon",
+        "high": "Élevé",
+        "full": "Plein",
+        "average": "Moyen",
+        "lowMid": "Bas-Moyen",
+        "recovering": "En reprise",
+        "stable": "Stable"
+    },
+    "footer": {
+        "title": "Moniteur des Barrages du Maroc",
+        "description": "Une plateforme dédiée à la visualisation des données en temps réel des ressources hydrauliques du Royaume. Suivi des efforts de récupération de l'eau en 2026.",
+        "officialSources": "Sources officielles",
+        "ministry": "Ministère de l'Équipement et de l'Eau",
+        "maaDialna": "Plateforme Maa Dialna",
+        "abh": "ABH (Agences des Bassins Hydrauliques)",
+        "waterSaving": "Conseils d'économie d'eau",
+        "waterSavingDesc": "Malgré la reprise, la conservation de l'eau reste une priorité nationale.",
+        "copyright": "© 2026 Moniteur de Sécurité de l'Eau. Conçu avec l'IA."
+    },
+    "news": {
+        "breaking": "URGENT:",
+        "alert": "ALERTE:",
+        "update": "MISE À JOUR:",
+        "infrastructure": "INFRASTRUCTURE:",
+        "news1": "Le taux de remplissage national atteint 55,2% (Doublé vs 2025)",
+        "news2": "Bassin du Bouregreg à 96,2% de capacité",
+        "news3": "Barrages Oued El Makhazine et Sidi Mohamed Ben Abdellah libérant l'excès d'eau",
+        "news4": "L'autoroute de l'eau Sebou-Bouregreg a transféré 400M m³ cet hiver"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "common": {
+        "appName": "Morocco Water Monitor",
+        "lastUpdate": "Last Update",
+        "downloadReport": "Download Report",
+        "viewGuidelines": "View Guidelines"
+    },
+    "hero": {
+        "title": "Morocco Water Monitor",
+        "subtitle": "Tracking the Kingdom's Hydraulic Recovery",
+        "cta": "Explore Dashboard",
+        "slide1": "Atlas Mountains - Source of Life",
+        "slide2": "Modern Dam Infrastructure",
+        "slide3": "Moroccan Countryside"
+    },
+    "stats": {
+        "fillRate": "National Fill Rate",
+        "totalReserve": "Total Reserve",
+        "rainfall": "Rainfall (Sep-Jan)",
+        "snowCover": "Snow Cover",
+        "vsLastYear": "vs {{value}} in Jan 2025",
+        "capacity": "Capacity: {{value}} Billion m³",
+        "nationalAverage": "National Average",
+        "peakRecorded": "Peak recorded Jan 2026",
+        "feedingBasins": "Feeding Oum Er Rbia & Tensift"
+    },
+    "overview": {
+        "title": "Hydraulic Situation Overview",
+        "description": "Analysis of the historic recovery following the Sept 2025 - Jan 2026 rainfall season. Data aggregated from the Ministry of Equipment and Water."
+    },
+    "charts": {
+        "historyTitle": "5-Year Evolution (January Status)",
+        "basinTitle": "Filling Rate by Hydraulic Basin",
+        "crisis": "Crisis",
+        "recovery": "Recovery",
+        "analysis": "After hitting a critical low of 23.2% in 2024, reserves have shown a V-shaped recovery. The 2026 level (55.2%) surpasses the 2021-2022 average, officially ending the \"7-year drought\" cycle according to the Ministry."
+    },
+    "regional": {
+        "title": "Regional Situation",
+        "north": "North (Saturation)",
+        "northDesc": "Loukkos & Bouregreg > 90%. Dams like Oued El Makhazine are full. Secure for 3 years.",
+        "center": "Center (Strong Recovery)",
+        "centerDesc": "Sebou at 68.7%. Al Wahda (largest dam) holding 2.6B m³. Agriculture secure.",
+        "south": "South (Improving)",
+        "southDesc": "Oum Er Rbia rose from 4.7% to 30.5%. Al Massira dam revived (13%). Crisis averted but caution needed."
+    },
+    "infrastructure": {
+        "title": "Infrastructure",
+        "sebouBouregreg": "Sebou-Bouregreg Highway",
+        "operational": "Operational",
+        "transferred": "Transferred 400M m³ to Rabat/Casa.",
+        "casaDesal": "Casablanca Desalination",
+        "phase1": "Phase 1 (2027)",
+        "casaDesc": "World's 2nd largest. Construction ongoing.",
+        "agadirDesal": "Agadir Desalination Expansion",
+        "target": "Target: 400k m³/day"
+    },
+    "dams": {
+        "title": "Major Dams Detailed Status (Top 10 by Capacity)",
+        "sortedBy": "*Sorted by capacity",
+        "name": "Dam Name",
+        "basin": "Basin",
+        "capacity": "Capacity (Mm³)",
+        "fillRate": "Fill % (2026)",
+        "vsLastYear": "vs 2025",
+        "status": "Status",
+        "showing": "Displaying top 8 dams by strategic importance.",
+        "dataSource": "Data Source: maadialna.ma (Simulated for Jan 2026)"
+    },
+    "status": {
+        "good": "Good",
+        "high": "High",
+        "full": "Full",
+        "average": "Average",
+        "lowMid": "Low-Mid",
+        "recovering": "Recovering",
+        "stable": "Stable"
+    },
+    "footer": {
+        "title": "Morocco Dams Monitor",
+        "description": "A dedicated platform providing real-time data visualization of the Kingdom's hydraulic resources. Monitoring the 2026 water recovery efforts.",
+        "officialSources": "Official Sources",
+        "ministry": "Ministry of Equipment and Water",
+        "maaDialna": "Maa Dialna Platform",
+        "abh": "ABH (River Basin Agencies)",
+        "waterSaving": "Water Saving Tips",
+        "waterSavingDesc": "Despite the recovery, water conservation remains a national priority.",
+        "copyright": "© 2026 Water Security Monitor. Designed with AI."
+    },
+    "news": {
+        "breaking": "BREAKING:",
+        "alert": "ALERT:",
+        "update": "UPDATE:",
+        "infrastructure": "INFRASTRUCTURE:",
+        "news1": "National fill rate hits 55.2% (Doubled vs 2025)",
+        "news2": "Bouregreg Basin at 96.2% capacity",
+        "news3": "Oued El Makhazine and Sidi Mohamed Ben Abdellah dams releasing excess water",
+        "news4": "Sebou-Bouregreg Water Highway transferred 400M m³ this winter"
+    }
+}
